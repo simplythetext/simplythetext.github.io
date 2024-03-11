@@ -3,8 +3,9 @@
 
 <h1 align="center"><b>Simply The Text! NLP Solutions for Accessibility Challenges</b></h1>
 <h3 align="center"><i>A SwissText Workshop, Chur, 10th June 2024</i></h3>
+<center><img src="images/favicon.png" width="14%"/></center>
 
-## __Organizing committee__
+## __Organizing Committee__
 
 * Lucía Ormaechea, [Lucia.OrmaecheaGrijalba@unige.ch](mailto:Lucia.OrmaecheaGrijalba@unige.ch), TIM/FTI, University of Geneva.
 * Nikos Tsourakis, [Nikolaos.Tsourakis@unige.ch](mailto:Nikolaos.Tsourakis@unige.ch), TIM/FTI, University of Geneva.
@@ -13,7 +14,7 @@
 
 ---
 
-## __Workshop theme__
+## __Workshop Theme__
 
 In recent years, Natural Language Processing (NLP) has emerged as a powerful tool in enhancing accessibility across various domains, including administration, healthcare, education, transport, and the media, to name but a few. Various NLP-driven solutions, like augmentative and alternative communication technologies, interactive conversational agents, or real-time captioning and subtitling have substantially improved information access for all. Indeed, a wide range of users, such as children, second language learners, individuals with learning or reading disorders, older adults, and people with disabilities, have already benefited from smoother communication interactions in all spheres of life thanks to NLP-based technology. 
 
@@ -40,7 +41,7 @@ We invite proposals on, but not limited to, the following topics:
 * Ethical AI and human-centered NLP design.
 * NLP applications tailored for the multilingual Swiss environment.
 
-## Submissions
+## __Submissions__
 
 Authors should submit a __1-page abstract__ including relevant information on these four aspects: 
 
@@ -53,7 +54,7 @@ Selected contributions will be presented during the workshop in the form of __pi
 
 __Abstracts should be sent to:__ [simplythetext@unige.ch](mailto:simplythetext@unige.ch)
 
-## Tentative Program
+## __Tentative Program__
 
 With *Simply The Text!* our main goal is to provide an interactive forum for discussion where information and communication access advocates from different fields seek solutions to current challenges through NLP-based ideas. We propose a 2-hour workshop, with the following tentative structure: 
 
@@ -64,17 +65,17 @@ With *Simply The Text!* our main goal is to provide an interactive forum for dis
 | 60 min   | __Pitch session__ | |
 | 30 min   | __Demo and discussion__ | Interactive demos, active discussion with ideas on how to address challenges identified during the workshop |
 
-## Important Dates
+## __Important Dates__
 
 * Abstract submissions: __TODO__
 * Acceptance notification: __TODO__
 
-## Scientific Committee
+## __Scientific Committee__
 
-* Lucía Ormaechea, [Lucia.OrmaecheaGrijalba@unige.ch](mailto:Lucia.OrmaecheaGrijalba@unige.ch), TIM/FTI, University of Geneva.
-* Nikos Tsourakis, [Nikolaos.Tsourakis@unige.ch](mailto:Nikolaos.Tsourakis@unige.ch), TIM/FTI, University of Geneva.
-* Silvia Rodríguez Vázquez, [Silvia.Rodriguez@unige.ch](mailto:Silvia.Rodriguez@unige.ch), TIM/FTI, University of Geneva.
-* Irene Strasly, [Irene.Strasly@unige.ch](mailto:Irene.Strasly@unige.ch), TIM/FTI, University of Geneva.
+* Lucía Ormaechea.
+* Nikos Tsourakis.
+* Silvia Rodríguez Vázquez.
+* Irene Strasly.
 * __MORE?__
 
 <!-- ## Icons and Emojs

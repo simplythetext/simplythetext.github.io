@@ -1,5 +1,7 @@
 site_name: Simply The Text! A SwissText 2024 Workshop
 theme:
+  # icon:
+  #   logo: images/favicon.png
   name:
     material
   font:
