@@ -2,8 +2,10 @@ site_name: Simply The Text! A SwissText 2024 Workshop
 theme:
   name:
     material
+  font:
+    text: Roboto
   features:
-  - navigation.tabs
+  # - navigation.tabs
   - navigation.sections
   - toc.integrate
   - navigation.top
@@ -18,13 +20,13 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: teal
+      primary: deep orange
       accent: lime
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: teal
+      primary: deep orange
       accent: lime
 
 markdown_extensions:
