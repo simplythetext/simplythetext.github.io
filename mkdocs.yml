@@ -1,10 +1,8 @@
-site_name: Simply The Text! A SwissText 2024 Workshop
+site_name: Simply The Text! Workshop
 theme:
-  # icon:
-  #   logo: images/favicon.png
-  name:
-    material
+  name: material
   favicon: assets/images/favicon.png
+  logo: assets/images/text-box-multiple.svg
   font:
     text: Roboto
   features:

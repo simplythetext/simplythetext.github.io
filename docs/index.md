@@ -2,19 +2,18 @@
 <!-- ### *A SwissText Workshop, Chur, 10th June 2024* -->
 
 <h1 align="center"><b>Simply The Text! NLP Solutions for Accessibility Challenges</b></h1>
-<h3 align="center"><i>A SwissText Workshop, Chur, 10th June 2024</i></h3>
-<center><img src="images/favicon.png" width="14%"/></center>
+<h3 align="center"><i>A SwissText Workshop</i> – 📍 <i>Chur (Switzerland), June 2024</i></h3>
+<center><img src="images/swisstext.png" alt="SwisText logo" width="14%"/></center>
 
-## __Organizing Committee__
-
-* Lucía Ormaechea, [Lucia.OrmaecheaGrijalba@unige.ch](mailto:Lucia.OrmaecheaGrijalba@unige.ch), TIM/FTI, University of Geneva.
-* Nikos Tsourakis, [Nikolaos.Tsourakis@unige.ch](mailto:Nikolaos.Tsourakis@unige.ch), TIM/FTI, University of Geneva.
-* Silvia Rodríguez Vázquez, [Silvia.Rodriguez@unige.ch](mailto:Silvia.Rodriguez@unige.ch), TIM/FTI, University of Geneva.
-* Irene Strasly, [Irene.Strasly@unige.ch](mailto:Irene.Strasly@unige.ch), TIM/FTI, University of Geneva.
+## __Organizing committee__
+* <a href="https://www.unige.ch/fti/fr/faculte/departements/dtim/membrestim/ormaechea-grijalba/" target="_blank">Lucía Ormaechea</a>, TIM/FTI, University of Geneva, [Lucia.OrmaecheaGrijalba@unige.ch](mailto:Lucia.OrmaecheaGrijalba@unige.ch)
+* <a href="https://www.unige.ch/fti/fr/faculte/departements/dtim/membrestim/tsourakis/" target="_blank">Nikolaos Tsourakis</a>, TIM/FTI, University of Geneva, [Nikolaos.Tsourakis@unige.ch](mailto:Nikolaos.Tsourakis@unige.ch)
+* <a href="https://www.unige.ch/fti/fr/faculte/departements/dtim/membrestim/rodriguez/" target="_blank">Silvia Rodríguez Vázquez</a>, TIM/FTI, University of Geneva, [Irene.Strasly@unige.ch](mailto:Irene.Strasly@unige.ch)
+* <a href="https://www.unige.ch/fti/fr/faculte/departements/dtim/membrestim/strasly/" target="_blank">Irene Strasly</a>, TIM/FTI, University of Geneva, [Irene.Strasly@unige.ch](mailto:Irene.Strasly@unige.ch)
 
 ---
 
-## __Workshop Theme__
+## __Workshop theme__
 
 In recent years, Natural Language Processing (NLP) has emerged as a powerful tool in enhancing accessibility across various domains, including administration, healthcare, education, transport, and the media, to name but a few. Various NLP-driven solutions, like augmentative and alternative communication technologies, interactive conversational agents, or real-time captioning and subtitling have substantially improved information access for all. Indeed, a wide range of users, such as children, second language learners, individuals with learning or reading disorders, older adults, and people with disabilities, have already benefited from smoother communication interactions in all spheres of life thanks to NLP-based technology. 
 
@@ -43,18 +42,25 @@ We invite proposals on, but not limited to, the following topics:
 
 ## __Submissions__
 
-Authors should submit a __1-page abstract__ including relevant information on these four aspects: 
+Authors should submit __an extended abstract (1-2 pages)__ including relevant information on these four aspects: 
 
 1. Description of the problem to be solved.
 2. Proposed or envisioned solution (if the problem has not been solved yet).
 3. Current development stage: early work (goal identification, tasks to be performed), work-in-progress (design, implementation, testing), prototyping, etc.
 4. Next steps to be taken.
 
-Selected contributions will be presented during the workshop in the form of __pitches__. Following each presentation, authors will engage the audience by posing one question to initiate further discussion. This will allow discussing ideas on how to address the challenges identified during the pitch. Authors will have the possibility to showcase their solutions in the form of short demos, regardless of their current development stage, but it is not a requirement for the submission to be accepted. 
+Submission format for 2-page extended abstracts:
+
+* Please use the <a href="https://2023.aclweb.org/calls/style_and_formatting/" target="_blank">ACL style</a>.
+* Language: English.
+
+Selected contributions will be presented during the workshop in the form of __pitches__. Following each presentation, authors will engage the audience by posing one question to initiate further discussion. This will allow discussing ideas on how to address the challenges identified during the pitch. Authors will have the possibility to showcase their solutions in the form of short demos, regardless of their current development stage, but it is not a requirement for the submission to be accepted.
+
+Accepted abstracts will be part of the SwissText conference proceedings.
 
 __Abstracts should be sent to:__ [simplythetext@unige.ch](mailto:simplythetext@unige.ch)
 
-## __Tentative Program__
+## __Tentative program__
 
 With *Simply The Text!* our main goal is to provide an interactive forum for discussion where information and communication access advocates from different fields seek solutions to current challenges through NLP-based ideas. We propose a 2-hour workshop, with the following tentative structure: 
 
@@ -65,18 +71,24 @@ With *Simply The Text!* our main goal is to provide an interactive forum for dis
 | 60 min   | __Pitch session__ | |
 | 30 min   | __Demo and discussion__ | Interactive demos, active discussion with ideas on how to address challenges identified during the workshop |
 
-## __Important Dates__
+## __Important dates__
 
 * Abstract submissions: __TODO__
 * Acceptance notification: __TODO__
 
-## __Scientific Committee__
+## __Scientific committee__
 
 * Lucía Ormaechea.
 * Nikos Tsourakis.
 * Silvia Rodríguez Vázquez.
 * Irene Strasly.
-* __MORE?__
+
+## __Under the hospice of__
+
+<a href="https://sans-barriere.unige.ch/" target="_blank">
+    <center><img src="images/csb_white.png" alt="Communication Sans Barrière" width="60%"></center>
+</a>
+<br><br>
 
 <!-- ## Icons and Emojs
 
