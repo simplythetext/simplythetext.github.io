@@ -4,6 +4,7 @@ theme:
   #   logo: images/favicon.png
   name:
     material
+  favicon: assets/images/favicon.png
   font:
     text: Roboto
   features:
