@@ -3,7 +3,7 @@
 
 <h1 align="center"><b>Simply The Text! NLP Solutions for Accessibility Challenges</b></h1>
 <h3 align="center"><i>A SwissText Workshop</i> – 📍 <i>Chur (Switzerland), June 2024</i></h3>
-<center><img src="images/swisstext.png" alt="SwisText logo" width="14%"/></center>
+<center><img src="images/swisstext.png" alt="SwissText logo" width="14%"/></center>
 
 ## __Organizing committee__
 * <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/ormaechea-grijalba/" target="_blank">Lucía Ormaechea</a>, TIM/FTI, University of Geneva, [Lucia.OrmaecheaGrijalba@unige.ch](mailto:Lucia.OrmaecheaGrijalba@unige.ch)
