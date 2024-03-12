@@ -6,10 +6,10 @@
 <center><img src="images/swisstext.png" alt="SwisText logo" width="14%"/></center>
 
 ## __Organizing committee__
-* <a href="https://www.unige.ch/fti/fr/faculte/departements/dtim/membrestim/ormaechea-grijalba/" target="_blank">Lucía Ormaechea</a>, TIM/FTI, University of Geneva, [Lucia.OrmaecheaGrijalba@unige.ch](mailto:Lucia.OrmaecheaGrijalba@unige.ch)
-* <a href="https://www.unige.ch/fti/fr/faculte/departements/dtim/membrestim/tsourakis/" target="_blank">Nikolaos Tsourakis</a>, TIM/FTI, University of Geneva, [Nikolaos.Tsourakis@unige.ch](mailto:Nikolaos.Tsourakis@unige.ch)
-* <a href="https://www.unige.ch/fti/fr/faculte/departements/dtim/membrestim/rodriguez/" target="_blank">Silvia Rodríguez Vázquez</a>, TIM/FTI, University of Geneva, [Irene.Strasly@unige.ch](mailto:Irene.Strasly@unige.ch)
-* <a href="https://www.unige.ch/fti/fr/faculte/departements/dtim/membrestim/strasly/" target="_blank">Irene Strasly</a>, TIM/FTI, University of Geneva, [Irene.Strasly@unige.ch](mailto:Irene.Strasly@unige.ch)
+* <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/ormaechea-grijalba/" target="_blank">Lucía Ormaechea</a>, TIM/FTI, University of Geneva, [Lucia.OrmaecheaGrijalba@unige.ch](mailto:Lucia.OrmaecheaGrijalba@unige.ch)
+* <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/tsourakis/" target="_blank">Nikolaos Tsourakis</a>, TIM/FTI, University of Geneva, [Nikolaos.Tsourakis@unige.ch](mailto:Nikolaos.Tsourakis@unige.ch)
+* <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/rodriguez/" target="_blank">Silvia Rodríguez Vázquez</a>, TIM/FTI, University of Geneva, [Irene.Strasly@unige.ch](mailto:Irene.Strasly@unige.ch)
+* <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/strasly/" target="_blank">Irene Strasly</a>, TIM/FTI, University of Geneva, [Irene.Strasly@unige.ch](mailto:Irene.Strasly@unige.ch)
 
 ---
 
@@ -86,7 +86,7 @@ With *Simply The Text!* our main goal is to provide an interactive forum for dis
 ## __Under the hospice of__
 
 <a href="https://sans-barriere.unige.ch/" target="_blank">
-    <center><img src="images/csb_white.png" alt="Communication Sans Barrière" width="60%"></center>
+    <center><img src="images/csb_white.png" alt="Communication Sans Barrière" width="50%"></center>
 </a>
 <br><br>
 
