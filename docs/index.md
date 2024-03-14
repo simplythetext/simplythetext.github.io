@@ -2,7 +2,7 @@
 <!-- ### *A SwissText Workshop, Chur, 10th June 2024* -->
 
 <h1 align="center"><b>Simply The Text! NLP Solutions for Accessibility Challenges</b></h1>
-<h3 align="center"><i>A SwissText Workshop</i> – 📍 <i>Chur (Switzerland), June 2024</i></h3>
+<h3 align="center"><i>A <a href="https://www.swisstext.org/" target="_blank">SwissText</a> Workshop</i> – <a href="https://maps.app.goo.gl/KQYanMg396GuQ5cw8" target="_blank">📍</a> <i>Chur (Switzerland), June 2024</i></h3>
 <center><img src="images/swisstext.png" alt="SwissText logo" width="14%"/></center>
 
 ---
@@ -83,13 +83,6 @@ All deadlines are 11:59PM UTC-12:00 (<a href="https://time.is/Anywhere_on_Earth"
     <img src="images/csb_white.png" alt="Communication Sans Barrière" width="35%">
 </a><br>
 
-This workshop is organized by members and collaborators of the ‘[Centre de recherche sur la communication sans barrière en Suisse Romande](https://sans-barriere.unige.ch/projets-de-recherche/uni-access/membres)’, founded by the Department of Translation Technology (TIM) at the Faculty of Translation and Interpreting (FTI) of the University of Geneva. The center is devoted to advancing [research projects in NLP and accessibility](https://sans-barriere.unige.ch/projets-de-recherche/uni-access), with the ultimate goal of fostering a society that is both inclusive and multilingual.
+This workshop is organized by members and collaborators of the ‘<a href="https://sans-barriere.unige.ch/projets-de-recherche/uni-access/membres" target="_blank">Centre de recherche sur la communication sans barrière en Suisse Romande</a>’, founded by the Department of Translation Technology (TIM) at the Faculty of Translation and Interpreting (FTI) of the University of Geneva. The center is devoted to advancing <a href="https://sans-barriere.unige.ch/projets-de-recherche/uni-access" target="_blank">research projects in NLP and accessibility</a>, with the ultimate goal of fostering a society that is both inclusive and multilingual.
 
 <br><br>
-
-<!-- ## Icons and Emojs
-
-:smile: 
-:fontawesome-regular-face-laugh-wink:
-:fontawesome-brands-twitter:{ .twitter }
-:octicons-heart-fill-24:{ .heart } -->
