@@ -83,6 +83,6 @@ All deadlines are 11:59PM UTC-12:00 (<a href="https://time.is/Anywhere_on_Earth"
     <img src="images/csb_white.png" alt="Communication Sans Barrière" width="35%">
 </a><br>
 
-This workshop is organized by members and collaborators of the ‘<a href="https://sans-barriere.unige.ch/" target="_blank">Centre de recherche sur la communication sans barrière en Suisse Romande</a>’, founded by the Department of Translation Technology (TIM) at the Faculty of Translation and Interpreting (FTI) of the University of Geneva. The center is devoted to advancing <a href="https://sans-barriere.unige.ch/projets-de-recherche/uni-access" target="_blank">research projects in NLP and accessibility</a>, with the ultimate goal of fostering a society that is both inclusive and multilingual.
+This workshop is organized by members and collaborators of the ‘<a href="https://sans-barriere.unige.ch/" target="_blank">Centre de recherche sur la communication sans barrière en Suisse Romande</a>’, founded by the Department of Translation Technology (TIM) at the Faculty of Translation and Interpreting (FTI) of the University of Geneva. The center is devoted to advancing <a href="https://sans-barriere.unige.ch/projets-de-recherche" target="_blank">research projects in NLP and accessibility</a>, with the ultimate goal of fostering a society that is both inclusive and multilingual.
 
 <br><br>
