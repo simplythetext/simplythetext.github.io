@@ -52,7 +52,7 @@ Selected contributions will be presented during the workshop in the form of __pi
 
 Accepted abstracts will be part of the SwissText conference proceedings.
 
-__Abstracts should be sent to:__ [simplythetext@unige.ch](mailto:simplythetext@unige.ch)
+__Abstracts or any other inquiries should be sent to:__ [simplythetext@unige.ch](mailto:simplythetext@unige.ch)
 
 ## __Tentative structure__
 
