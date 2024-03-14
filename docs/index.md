@@ -5,12 +5,6 @@
 <h3 align="center"><i>A SwissText Workshop</i> – 📍 <i>Chur (Switzerland), June 2024</i></h3>
 <center><img src="images/swisstext.png" alt="SwissText logo" width="14%"/></center>
 
-## __Organizing committee__
-* <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/ormaechea-grijalba/" target="_blank">Lucía Ormaechea</a>, TIM/FTI, University of Geneva, [Lucia.OrmaecheaGrijalba@unige.ch](mailto:Lucia.OrmaecheaGrijalba@unige.ch)
-* <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/tsourakis/" target="_blank">Nikolaos Tsourakis</a>, TIM/FTI, University of Geneva, [Nikolaos.Tsourakis@unige.ch](mailto:Nikolaos.Tsourakis@unige.ch)
-* <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/rodriguez/" target="_blank">Silvia Rodríguez Vázquez</a>, TIM/FTI, University of Geneva, [Irene.Strasly@unige.ch](mailto:Irene.Strasly@unige.ch)
-* <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/strasly/" target="_blank">Irene Strasly</a>, TIM/FTI, University of Geneva, [Irene.Strasly@unige.ch](mailto:Irene.Strasly@unige.ch)
-
 ---
 
 ## __Workshop theme__
@@ -19,7 +13,7 @@ In recent years, Natural Language Processing (NLP) has emerged as a powerful too
 
 The advancement from the synergy between NLP and accessibility in various sectors is evident, yet it faces significant challenges. Key among these is the need for adaptable models that can understand and interpret the full spectrum of human communication. Moreover, NLP technologies should be accessible to all, irrespective of geographical location, language, or technological expertise. The scarcity of comprehensive and multimodal datasets represents another significant barrier as many current datasets are limited in scope, focusing on specific languages or types of communication.
 
-This workshop aims to bring together researchers and practitioners from both academia and industry to explore not only the latest advancements in NLP solutions and their application for promoting accessibility, but also to discuss existing obstacles and how these can be addressed. In this sense, we welcome position papers and contributions either presenting novel ideas, regardless of whether they are still work-in-progress, or describing finalized solutions.
+This workshop aims to bring together researchers and practitioners from both academia and industry to explore not only the latest advancements in NLP solutions and their application for promoting accessibility, but also to discuss existing obstacles and how these can be addressed. In this sense, we welcome position papers and contributions either presenting novel ideas (even if they are still work-in-progress) or describing finalized solutions.
 
 We invite proposals on, but not limited to, the following topics:
 
@@ -49,7 +43,7 @@ Authors should submit __an extended abstract (1-2 pages)__ including relevant in
 3. Current development stage: early work (goal identification, tasks to be performed), work-in-progress (design, implementation, testing), prototyping, etc.
 4. Next steps to be taken.
 
-Submission format for 2-page extended abstracts:
+Submission format for extended abstracts:
 
 * Please use the <a href="https://2023.aclweb.org/calls/style_and_formatting/" target="_blank">ACL style</a>.
 * Language: English.
@@ -60,34 +54,37 @@ Accepted abstracts will be part of the SwissText conference proceedings.
 
 __Abstracts should be sent to:__ [simplythetext@unige.ch](mailto:simplythetext@unige.ch)
 
-## __Tentative program__
+## __Tentative structure__
 
-With *Simply The Text!* our main goal is to provide an interactive forum for discussion where information and communication access advocates from different fields seek solutions to current challenges through NLP-based ideas. We propose a 2-hour workshop, with the following tentative structure: 
+With *Simply The Text!* our main goal is to provide an interactive forum for discussion where information and communication access advocates from different fields seek solutions to current challenges through NLP-based ideas. We envision a 2-hour workshop, with the following tentative structure:
 
-| Duration | Title | Notes |
-| ----------- | ----------- | ----------- |
-| 10 min | __Introduction__ | Brief presentation by the organizing committee, describing the workshop dynamics |
-| 20 min   | __Keynote speaker__ | |
-| 60 min   | __Pitch session__ | |
-| 30 min   | __Demo and discussion__ | Interactive demos, active discussion with ideas on how to address challenges identified during the workshop |
+| Title | Notes |
+| ----------- | ----------- |
+| __Introduction__ | Brief presentation by the organizing committee, describing the workshop dynamics |
+| __Invited speaker__ | Sarah Ebling - Full Professor of Language‚ Technology and Accessibility, University of Zurich |
+| __Pitch session__ | Presentation of the accepted abstracts |
+| __Discussion__ | Interactive demos, active discussion with ideas on how to address challenges identified during the workshop |
 
 ## __Important dates__
 
-* Abstract submissions: __TODO__
-* Acceptance notification: __TODO__
+All deadlines are 11:59PM UTC-12:00 (<a href="https://time.is/Anywhere_on_Earth" target="_blank">Anywhere on Earth</a>)
 
-## __Scientific committee__
+* Abstract submissions: __April 15th__.
+* Acceptance notification: __April 30th__.
+* Camera-ready version: __May 15th__.
 
-* Lucía Ormaechea.
-* Nikos Tsourakis.
-* Silvia Rodríguez Vázquez.
-* Irene Strasly.
+## __Organizing committee__
+* <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/ormaechea-grijalba/" target="_blank">Lucía Ormaechea</a>, TIM/FTI, University of Geneva, [Lucia.OrmaecheaGrijalba@unige.ch](mailto:Lucia.OrmaecheaGrijalba@unige.ch)
+* <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/tsourakis/" target="_blank">Nikolaos Tsourakis</a>, TIM/FTI, University of Geneva, [Nikolaos.Tsourakis@unige.ch](mailto:Nikolaos.Tsourakis@unige.ch)
+* <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/rodriguez/" target="_blank">Silvia Rodríguez Vázquez</a>, TIM/FTI, University of Geneva, [Irene.Strasly@unige.ch](mailto:Irene.Strasly@unige.ch)
+* <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/strasly/" target="_blank">Irene Strasly</a>, TIM/FTI, University of Geneva, [Irene.Strasly@unige.ch](mailto:Irene.Strasly@unige.ch)
 
-## __Under the hospice of__
+<br><a href="https://sans-barriere.unige.ch/" target="_blank">
+    <img src="images/csb_white.png" alt="Communication Sans Barrière" width="35%">
+</a><br>
 
-<a href="https://sans-barriere.unige.ch/" target="_blank">
-    <center><img src="images/csb_white.png" alt="Communication Sans Barrière" width="50%"></center>
-</a>
+This workshop is organized by members and collaborators of the ‘[Centre de recherche sur la communication sans barrière en Suisse Romande](https://sans-barriere.unige.ch/projets-de-recherche/uni-access/membres)’, founded by the Department of Translation Technology (TIM) at the Faculty of Translation and Interpreting (FTI) of the University of Geneva. The center is devoted to advancing [research projects in NLP and accessibility](https://sans-barriere.unige.ch/projets-de-recherche/uni-access), with the ultimate goal of fostering a society that is both inclusive and multilingual.
+
 <br><br>
 
 <!-- ## Icons and Emojs
