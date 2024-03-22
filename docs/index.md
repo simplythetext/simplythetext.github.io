@@ -69,9 +69,9 @@ With *Simply The Text!* our main goal is to provide an interactive forum for dis
 
 All deadlines are 11:59PM UTC-12:00 (<a href="https://time.is/Anywhere_on_Earth" target="_blank">Anywhere on Earth</a>)
 
-* Abstract submissions: __April 15th__.
-* Acceptance notification: __April 30th__.
-* Camera-ready version: __May 15th__.
+* Abstract submissions: __April 22th__.
+* Acceptance notification: __May 6th__.
+* Camera-ready version: __May 20th__.
 
 ## __Organizing committee__
 * <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/ormaechea-grijalba/" target="_blank">Lucía Ormaechea</a>, TIM/FTI, University of Geneva, [Lucia.OrmaecheaGrijalba@unige.ch](mailto:Lucia.OrmaecheaGrijalba@unige.ch)
