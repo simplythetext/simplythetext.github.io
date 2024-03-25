@@ -76,7 +76,7 @@ All deadlines are 11:59PM UTC-12:00 (<a href="https://time.is/Anywhere_on_Earth"
 ## __Organizing committee__
 * <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/ormaechea-grijalba/" target="_blank">Lucía Ormaechea</a>, TIM/FTI, University of Geneva, [Lucia.OrmaecheaGrijalba@unige.ch](mailto:Lucia.OrmaecheaGrijalba@unige.ch)
 * <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/tsourakis/" target="_blank">Nikolaos Tsourakis</a>, TIM/FTI, University of Geneva, [Nikolaos.Tsourakis@unige.ch](mailto:Nikolaos.Tsourakis@unige.ch)
-* <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/rodriguez/" target="_blank">Silvia Rodríguez Vázquez</a>, TIM/FTI, University of Geneva, [Irene.Strasly@unige.ch](mailto:Irene.Strasly@unige.ch)
+* <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/rodriguez/" target="_blank">Silvia Rodríguez Vázquez</a>, TIM/FTI, University of Geneva, [Silvia.Rodriguez@unige.ch](mailto:Silvia.Rodriguez@unige.ch)
 * <a href="https://www.unige.ch/fti/en/faculte/departements/dtim/membrestim/strasly/" target="_blank">Irene Strasly</a>, TIM/FTI, University of Geneva, [Irene.Strasly@unige.ch](mailto:Irene.Strasly@unige.ch)
 
 <br><a href="https://sans-barriere.unige.ch/" target="_blank">
